@@ -1,0 +1,8 @@
+{
+  "name": "Bookr - Avo demo",
+  "description": "Bookr - Avo demo app",
+  "website": "https://bookr.avodemo.com",
+  "scripts": {
+    "postdeploy": "bundle exec rails db:migrate"
+  }
+}
